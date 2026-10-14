@@ -1,0 +1,7 @@
+BUS TICKET BOOKING SYSTEM — SUBMISSION PACKAGE
+
+Contents: C++ source code, project report PDF, UML SVG diagrams, sample output notes, data folder, README, and testing checklist.
+
+To build on Windows: ensure g++ (C++17) is installed and available on PATH, then double-click build_and_run.bat.
+
+Important: Screenshots/SampleOutput.txt is illustrative text, not a screenshot of a real run. Capture genuine screenshots after running the program if your instructor requires them. Please compare the report format and required artifacts with your course instructions before submitting.

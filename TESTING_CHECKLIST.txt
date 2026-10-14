@@ -1,0 +1,14 @@
+TESTING CHECKLIST
+[ ] Compile using the command in README.txt.
+[ ] Launch Executable/Project.exe from the project root.
+[ ] Display bus records.
+[ ] Search for existing bus 101.
+[ ] Search for a bus number that does not exist.
+[ ] Book a ticket using valid passenger details.
+[ ] Confirm the bus available-seat count decreases.
+[ ] Cancel the ticket and confirm the seat is released.
+[ ] Try invalid age and phone input.
+[ ] Confirm deleting a bus with an active ticket is blocked.
+[ ] Exit and restart the program; confirm saved records remain.
+[ ] Capture genuine screenshots and place them in Screenshots/.
+[ ] Review the project report and replace sample/expected test results with actual results.
